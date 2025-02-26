@@ -1,0 +1,97 @@
+﻿  NotPuzzle.cpp
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(15,20): warning C4091: 'extern ': ignored on left of 'NotPuzzle::taskType' when no variable is declared
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0445' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(26,4): warning C4566: character represented by universal-character-name '\u0451' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.hpp(27,4): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'NotPuzzle.cpp')
+  
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(15,16): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(15,16): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(15,16): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(15,16): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(15,16): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(19,16): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(19,16): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(19,16): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(19,16): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(19,16): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(19,16): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(84,66): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(99,111): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(102,21): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(102,21): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(102,21): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(102,21): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+D:\NotPuzzle\NotPuzzle\NotPuzzle.cpp(102,21): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+  NotPuzzle.vcxproj -> D:\NotPuzzle\x64\Debug\NotPuzzle.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
