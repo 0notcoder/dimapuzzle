@@ -23,7 +23,7 @@ namespace NotPuzzle {
 
 	// Дима сам придумай у меня фантазия ебанутая
 	static std::vector<std::pair<std::string, std::string>> voprosOtvetNaMillion{
-		{"Сколько у человека хуёв?", "1"},
+		{"Сколько у обезьяны ушей?", "1"},
 		{"Сколько см у админа", "999"}
 	};
 
